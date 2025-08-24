@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashPrajapati1028&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPrajapati1028&theme=radical" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPrajapati1028&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github.com/Akash8174" alt="GitHub stats" />
+  <img src="https://github.com/Akash8174" alt="streak stats" />
+  <img src="https://github.com/Akash8174" alt="Top languages" />
 </p>
