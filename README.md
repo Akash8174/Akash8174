@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🎓 I'm a **B.Tech IT (2022–2026) Student** at IIMT College of Engineering, Greater Noida  
-- 💻 I love working on **Software Development & Full-Stack Development. **  
+- 💻 I love working on **Software Development & Full-Stack Development.**  
 - 🚀 Currently exploring **Full-Stack Development & AI-powered apps**  
 - 👨‍💻 My projects are available here → [Portfolio Website](https://portfolio-akash-prajapati.onrender.com)  
 - ⚡ Fun fact: **I enjoy coding challenges & spicy food 🌶️**
