@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/AkashPrajapati1028/AkashPrajapati1028/main/assets/logo.png)
+![logo](https://github.com/Akash8174/Akash8174/blob/main/github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Akash Prajapati</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
